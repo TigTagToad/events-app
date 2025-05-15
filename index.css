@@ -1,0 +1,15 @@
+.events-grid{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px;
+
+}
+.event-card{
+    width: 100%;
+    padding: 10px;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 6px;
+    position: relative;
+}
